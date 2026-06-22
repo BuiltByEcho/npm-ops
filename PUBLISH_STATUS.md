@@ -11,6 +11,7 @@ Source repositories were updated and CI is green for:
 | `@builtbyecho/agent-wormhole` | `BuiltByEcho/agent-wormhole` | `0.1.3` | green | blocked by npm 2FA / needs trusted publishing or automation token |
 | `@builtbyecho/echo-gate` | `BuiltByEcho/echo-gate` | `0.1.3` | green | pending after agent-wormhole publish blocker |
 | `@builtbyecho/echo-orbit` | `BuiltByEcho/echo-orbit` | `0.1.2` | green | pending after agent-wormhole publish blocker |
+| `@builtbyecho/research` | `BuiltByEcho/research` | `0.5.4` | smoke tests pass locally | Trusted Publishing test failed: npm-side connection is not authorizing publish yet; rerun GitHub release job after fixing npm trusted publisher settings |
 
 ## Blocker
 
