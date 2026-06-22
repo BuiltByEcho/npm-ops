@@ -5,7 +5,8 @@
   "description": "Operational inventory, policy, and audit tooling for BuiltByEcho npm packages.",
   "type": "module",
   "scripts": {
-    "refresh": "node scripts/refresh-inventory.mjs"
+    "refresh": "node scripts/refresh-inventory.mjs",
+    "check-package": "node scripts/check-local-package.mjs"
   },
   "license": "MIT"
 }
