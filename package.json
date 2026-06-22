@@ -1,0 +1,11 @@
+{
+  "name": "@builtbyecho/npm-ops",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Operational inventory, policy, and audit tooling for BuiltByEcho npm packages.",
+  "type": "module",
+  "scripts": {
+    "refresh": "node scripts/refresh-inventory.mjs"
+  },
+  "license": "MIT"
+}

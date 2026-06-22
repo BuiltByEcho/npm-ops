@@ -1,0 +1,505 @@
+{
+  "generated_at": "2026-06-22T13:17:58+00:00",
+  "repos": [
+    {
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "description": "Operational inventory, release policy, and audit tooling for BuiltByEcho npm packages",
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "name": "npm-ops",
+      "nameWithOwner": "BuiltByEcho/npm-ops",
+      "primaryLanguage": null,
+      "pushedAt": "2026-06-22T13:14:53Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-06-22T13:15:26Z",
+      "url": "https://github.com/BuiltByEcho/npm-ops"
+    },
+    {
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "description": "Vaultline \u2014 x402-native file storage for autonomous agents",
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "name": "vaultline",
+      "nameWithOwner": "BuiltByEcho/vaultline",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "pushedAt": "2026-06-21T19:21:21Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-05-18T16:05:08Z",
+      "url": "https://github.com/BuiltByEcho/vaultline"
+    },
+    {
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "description": "Bankr Skills equip builders with plug-and-play tools to build more powerful agents.",
+      "isArchived": false,
+      "isFork": true,
+      "isPrivate": false,
+      "name": "skills",
+      "nameWithOwner": "BuiltByEcho/skills",
+      "primaryLanguage": {
+        "name": "Shell"
+      },
+      "pushedAt": "2026-06-20T02:39:51Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-05-26T01:27:50Z",
+      "url": "https://github.com/BuiltByEcho/skills"
+    },
+    {
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": true,
+      "name": "echo-infer",
+      "nameWithOwner": "BuiltByEcho/echo-infer",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "pushedAt": "2026-06-12T17:31:41Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-06-12T17:31:46Z",
+      "url": "https://github.com/BuiltByEcho/echo-infer"
+    },
+    {
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "description": "npx-able CLI to scaffold CI/CD pipelines for web projects. Auto-detects framework, backend, and package manager. Generates GitHub Actions workflows + Playwright tests.",
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "name": "add-ci",
+      "nameWithOwner": "BuiltByEcho/add-ci",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "pushedAt": "2026-06-12T01:24:25Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-06-12T01:24:28Z",
+      "url": "https://github.com/BuiltByEcho/add-ci"
+    },
+    {
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "description": "Wrap agent commands and produce concise, safety-aware run logs.",
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "name": "agent-runlog",
+      "nameWithOwner": "BuiltByEcho/agent-runlog",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "pushedAt": "2026-06-12T01:24:24Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-06-12T01:24:27Z",
+      "url": "https://github.com/BuiltByEcho/agent-runlog"
+    },
+    {
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "description": "Public website for Echo, including RevenueCat Agentic AI Advocate application",
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "name": "echo-site",
+      "nameWithOwner": "BuiltByEcho/echo-site",
+      "primaryLanguage": {
+        "name": "HTML"
+      },
+      "pushedAt": "2026-06-10T01:10:06Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-06-01T19:56:37Z",
+      "url": "https://github.com/BuiltByEcho/echo-site"
+    },
+    {
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+      "isArchived": false,
+      "isFork": true,
+      "isPrivate": false,
+      "name": "aeon",
+      "nameWithOwner": "BuiltByEcho/aeon",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "pushedAt": "2026-06-02T13:13:43Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-06-02T13:12:54Z",
+      "url": "https://github.com/BuiltByEcho/aeon"
+    },
+    {
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "description": "Simulate anything, for $1 & less than 10 min - Universal Swarm Intelligence Engine",
+      "isArchived": false,
+      "isFork": true,
+      "isPrivate": false,
+      "name": "MiroShark",
+      "nameWithOwner": "BuiltByEcho/MiroShark",
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "pushedAt": "2026-06-02T13:13:43Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-06-02T13:12:54Z",
+      "url": "https://github.com/BuiltByEcho/MiroShark"
+    },
+    {
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "description": "Terminal flight recorder for agent runs",
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "name": "echo-blackbox",
+      "nameWithOwner": "BuiltByEcho/echo-blackbox",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "pushedAt": "2026-05-29T18:10:56Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-05-29T18:11:07Z",
+      "url": "https://github.com/BuiltByEcho/echo-blackbox"
+    },
+    {
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "description": "Generate concise, safety-aware project briefs for coding agents.",
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "name": "agent-brief",
+      "nameWithOwner": "BuiltByEcho/agent-brief",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "pushedAt": "2026-05-27T23:58:02Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-05-27T23:58:05Z",
+      "url": "https://github.com/BuiltByEcho/agent-brief"
+    },
+    {
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "description": "Find free/public APIs for agents, prototypes, demos, and integrations.",
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "name": "public-api-finder",
+      "nameWithOwner": "BuiltByEcho/public-api-finder",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "pushedAt": "2026-05-27T21:32:27Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-05-27T21:32:31Z",
+      "url": "https://github.com/BuiltByEcho/public-api-finder"
+    },
+    {
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "name": "echo-gate",
+      "nameWithOwner": "BuiltByEcho/echo-gate",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "pushedAt": "2026-05-26T00:23:29Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-05-26T00:23:33Z",
+      "url": "https://github.com/BuiltByEcho/echo-gate"
+    },
+    {
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "description": "One-time sealed handoffs for autonomous agents. Encrypted payload, single claim, channel collapses after use.",
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "name": "agent-wormhole",
+      "nameWithOwner": "BuiltByEcho/agent-wormhole",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "pushedAt": "2026-05-26T00:21:56Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-05-26T00:22:00Z",
+      "url": "https://github.com/BuiltByEcho/agent-wormhole"
+    },
+    {
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": true,
+      "name": "umbral",
+      "nameWithOwner": "BuiltByEcho/umbral",
+      "primaryLanguage": {
+        "name": "CSS"
+      },
+      "pushedAt": "2026-05-24T19:38:26Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-05-24T19:38:29Z",
+      "url": "https://github.com/BuiltByEcho/umbral"
+    },
+    {
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": true,
+      "name": "echo-skillforge",
+      "nameWithOwner": "BuiltByEcho/echo-skillforge",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "pushedAt": "2026-05-23T03:11:13Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-05-23T03:11:16Z",
+      "url": "https://github.com/BuiltByEcho/echo-skillforge"
+    },
+    {
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "name": "agentor",
+      "nameWithOwner": "BuiltByEcho/agentor",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "pushedAt": "2026-05-21T16:21:14Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-05-21T16:20:54Z",
+      "url": "https://github.com/BuiltByEcho/agentor"
+    },
+    {
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "description": "Package agent work into portable Vaultline delivery bundles.",
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "name": "agent-pack",
+      "nameWithOwner": "BuiltByEcho/agent-pack",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "pushedAt": "2026-05-19T20:22:24Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-05-19T19:59:42Z",
+      "url": "https://github.com/BuiltByEcho/agent-pack"
+    },
+    {
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "description": "WAlert \u2014 Presale buy alert bot for Solana via Helius webhooks + Telegram",
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": true,
+      "name": "walert",
+      "nameWithOwner": "BuiltByEcho/walert",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "pushedAt": "2026-05-12T17:13:43Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-05-12T17:17:53Z",
+      "url": "https://github.com/BuiltByEcho/walert"
+    },
+    {
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "description": "Detect your dev environment in one command. Runtimes, languages, package managers, cloud CLIs, containers, git, and project type \u2014 structured for humans, agents, and CI.",
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "name": "env-probe",
+      "nameWithOwner": "BuiltByEcho/env-probe",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "pushedAt": "2026-05-12T05:08:23Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-05-12T05:08:27Z",
+      "url": "https://github.com/BuiltByEcho/env-probe"
+    },
+    {
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "description": "Concise, structured git repository summaries for AI agents and developers. Branch status, recent commits, change hotspots, and open PRs in one command.",
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "name": "git-digest",
+      "nameWithOwner": "BuiltByEcho/git-digest",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "pushedAt": "2026-05-11T05:05:49Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-05-11T05:05:53Z",
+      "url": "https://github.com/BuiltByEcho/git-digest"
+    },
+    {
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "description": "Local-first web research for agents: plan, search, fetch, render, rank, audit, trace, and report.",
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "name": "research",
+      "nameWithOwner": "BuiltByEcho/research",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "pushedAt": "2026-05-06T15:18:37Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-05-06T15:25:08Z",
+      "url": "https://github.com/BuiltByEcho/research"
+    },
+    {
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": true,
+      "name": "pepes-last-chamber",
+      "nameWithOwner": "BuiltByEcho/pepes-last-chamber",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "pushedAt": "2026-05-06T12:45:25Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-05-04T20:39:31Z",
+      "url": "https://github.com/BuiltByEcho/pepes-last-chamber"
+    },
+    {
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "description": "Human-readable receipts for agent work",
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "name": "trustlog",
+      "nameWithOwner": "BuiltByEcho/trustlog",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "pushedAt": "2026-05-04T17:38:09Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-05-04T17:38:14Z",
+      "url": "https://github.com/BuiltByEcho/trustlog"
+    },
+    {
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows \u2014 particularly Claude Code",
+      "isArchived": false,
+      "isFork": true,
+      "isPrivate": false,
+      "name": "awesome-claude-skills",
+      "nameWithOwner": "BuiltByEcho/awesome-claude-skills",
+      "primaryLanguage": null,
+      "pushedAt": "2026-05-04T17:29:35Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-05-04T17:29:08Z",
+      "url": "https://github.com/BuiltByEcho/awesome-claude-skills"
+    },
+    {
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "description": "Verifiable AI platform with signed inference and on-chain receipts",
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "name": "plumb",
+      "nameWithOwner": "BuiltByEcho/plumb",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "pushedAt": "2026-04-30T15:26:23Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-04-30T15:32:23Z",
+      "url": "https://github.com/BuiltByEcho/plumb"
+    },
+    {
+      "defaultBranchRef": {
+        "name": "master"
+      },
+      "description": "Bridge / MindFlow mobile app for iOS and Android",
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "name": "mindflow",
+      "nameWithOwner": "BuiltByEcho/mindflow",
+      "primaryLanguage": {
+        "name": "Swift"
+      },
+      "pushedAt": "2026-04-30T14:37:28Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-04-30T14:40:48Z",
+      "url": "https://github.com/BuiltByEcho/mindflow"
+    },
+    {
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "description": "AgentPass \u2014 on-chain identity verification for AI agents (ERC-8004)",
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "name": "agentpass",
+      "nameWithOwner": "BuiltByEcho/agentpass",
+      "primaryLanguage": {
+        "name": "Solidity"
+      },
+      "pushedAt": "2026-04-28T01:31:47Z",
+      "repositoryTopics": null,
+      "updatedAt": "2026-04-28T01:31:50Z",
+      "url": "https://github.com/BuiltByEcho/agentpass"
+    }
+  ]
+}
